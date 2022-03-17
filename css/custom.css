@@ -598,12 +598,12 @@ background-size: cover;
 
 .services2 .sc_promo_image,
 .home .sc_promo_image.odd {
-	background-image:url(../images/skinscript7.jpg);
+	background-image:url(../images/skinscript2.jpeg);
 	width: 50%;
-	height: 108%;
+	height: 100%;
 	object-fit: contain;
+	background-repeat: no-repeat;
 	background-size: cover;
-	
 	left: 0;
 }
 .home .sc_promo_image.even {
