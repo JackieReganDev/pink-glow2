@@ -343,6 +343,9 @@ embed {
     height: 0;
     width: 0;
 }
+#home-form{
+    background-color: #8ED4CC;
+}
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
     line-height: inherit;
